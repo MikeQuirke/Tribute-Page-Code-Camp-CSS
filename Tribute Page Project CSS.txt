@@ -1,0 +1,59 @@
+** start of undefined **
+
+
+
+** end of undefined **
+
+** start of undefined **
+
+#title {
+  text-align: center;
+  padding: 10px;
+}
+
+#title-description {
+  text-align: center;
+  padding: 10px;
+}
+
+#tribute-info {
+  text-align: center;
+  padding-top: 10px;
+}
+
+#image {
+  max-width: 100%;
+  height: auto;
+  margin: auto;
+  display: block;
+}
+
+.link {
+  text-align: center;
+}
+
+.timeline {
+  text-align: left;
+  max-width: 500px;
+}
+
+#dates-and-times {
+  padding: 20;
+}
+
+li {
+  padding: 10px;
+  margin: 0 auto;
+}
+
+* {
+  font-family: sans-serif;
+}
+
+#img-caption {
+  text-align: center;
+  padding: 10px;
+}
+
+** end of undefined **
+
